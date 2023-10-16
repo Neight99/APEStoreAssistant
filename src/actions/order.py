@@ -111,7 +111,7 @@ class Order(object):
             "product": model_number,
             "purchaseOption": "fullPrice",
             "step": "select",
-            # "ao.add_iphone15_ac_iup": "none", # fixme apple care?
+            "ao.add_iphone14promax_ac_iup": "SJTW2CH/A",
             "ams": "0",
             "atbtoken": atb_token,
             "igt": "true",
